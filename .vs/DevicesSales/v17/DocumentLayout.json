@@ -1,0 +1,555 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proj C#\\DevicesSales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|c:\\proj c#\\devicessales\\devicessales\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|solutionrelative:devicessales\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C26BC47-069A-4577-A22C-E1A990470602}|DevicesSalesLogic\\DevicesSalesLogic.csproj|c:\\proj c#\\devicessales\\devicessaleslogic\\extension\\collectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C26BC47-069A-4577-A22C-E1A990470602}|DevicesSalesLogic\\DevicesSalesLogic.csproj|solutionrelative:devicessaleslogic\\extension\\collectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5881C87-3D9E-41F2-B2C6-7C93CC5D85FE}|DevicesSalesStorage\\DevicesSalesStorage.csproj|c:\\proj c#\\devicessales\\devicessalesstorage\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5881C87-3D9E-41F2-B2C6-7C93CC5D85FE}|DevicesSalesStorage\\DevicesSalesStorage.csproj|solutionrelative:devicessalesstorage\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5881C87-3D9E-41F2-B2C6-7C93CC5D85FE}|DevicesSalesStorage\\DevicesSalesStorage.csproj|c:\\proj c#\\devicessales\\devicessalesstorage\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5881C87-3D9E-41F2-B2C6-7C93CC5D85FE}|DevicesSalesStorage\\DevicesSalesStorage.csproj|solutionrelative:devicessalesstorage\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|c:\\proj c#\\devicessales\\devicessales\\features\\dtomodels\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|solutionrelative:devicessales\\features\\dtomodels\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|c:\\proj c#\\devicessales\\devicessales\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|solutionrelative:devicessales\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5881C87-3D9E-41F2-B2C6-7C93CC5D85FE}|DevicesSalesStorage\\DevicesSalesStorage.csproj|c:\\proj c#\\devicessales\\devicessalesstorage\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5881C87-3D9E-41F2-B2C6-7C93CC5D85FE}|DevicesSalesStorage\\DevicesSalesStorage.csproj|solutionrelative:devicessalesstorage\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|c:\\proj c#\\devicessales\\devicessales\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|solutionrelative:devicessales\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|c:\\proj c#\\devicessales\\devicessales\\views\\client\\cartview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|solutionrelative:devicessales\\views\\client\\cartview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|c:\\proj c#\\devicessales\\devicessales\\views\\client\\regview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|solutionrelative:devicessales\\views\\client\\regview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|c:\\proj c#\\devicessales\\devicessales\\views\\client\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|solutionrelative:devicessales\\views\\client\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|c:\\proj c#\\devicessales\\devicessales\\features\\dtomodels\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|solutionrelative:devicessales\\features\\dtomodels\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|c:\\proj c#\\devicessales\\devicessales\\features\\managers\\salemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|solutionrelative:devicessales\\features\\managers\\salemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|c:\\proj c#\\devicessales\\devicessales\\features\\managers\\clientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|solutionrelative:devicessales\\features\\managers\\clientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|c:\\proj c#\\devicessales\\devicessales\\views\\client\\logview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|solutionrelative:devicessales\\views\\client\\logview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|c:\\proj c#\\devicessales\\devicessales\\features\\interfaces\\iclientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|solutionrelative:devicessales\\features\\interfaces\\iclientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C26BC47-069A-4577-A22C-E1A990470602}|DevicesSalesLogic\\DevicesSalesLogic.csproj|c:\\proj c#\\devicessales\\devicessaleslogic\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C26BC47-069A-4577-A22C-E1A990470602}|DevicesSalesLogic\\DevicesSalesLogic.csproj|solutionrelative:devicessaleslogic\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C26BC47-069A-4577-A22C-E1A990470602}|DevicesSalesLogic\\DevicesSalesLogic.csproj|c:\\proj c#\\devicessales\\devicessaleslogic\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C26BC47-069A-4577-A22C-E1A990470602}|DevicesSalesLogic\\DevicesSalesLogic.csproj|solutionrelative:devicessaleslogic\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|c:\\proj c#\\devicessales\\devicessales\\views\\client\\saleview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|solutionrelative:devicessales\\views\\client\\saleview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|c:\\proj c#\\devicessales\\devicessales\\features\\dtomodels\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|solutionrelative:devicessales\\features\\dtomodels\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|c:\\proj c#\\devicessales\\devicessales\\views\\home\\firstpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|solutionrelative:devicessales\\views\\home\\firstpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D973D5-C1FF-45FE-A4C8-3EF99D79E08B}|DevicesSales.MS_SQL\\DevicesSales.MS_SQL.csproj|c:\\proj c#\\devicessales\\devicessales.ms_sql\\migrations\\20240606183226_added tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D973D5-C1FF-45FE-A4C8-3EF99D79E08B}|DevicesSales.MS_SQL\\DevicesSales.MS_SQL.csproj|solutionrelative:devicessales.ms_sql\\migrations\\20240606183226_added tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|c:\\proj c#\\devicessales\\devicessales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|solutionrelative:devicessales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D973D5-C1FF-45FE-A4C8-3EF99D79E08B}|DevicesSales.MS_SQL\\DevicesSales.MS_SQL.csproj|c:\\proj c#\\devicessales\\devicessales.ms_sql\\sqlservercontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D973D5-C1FF-45FE-A4C8-3EF99D79E08B}|DevicesSales.MS_SQL\\DevicesSales.MS_SQL.csproj|solutionrelative:devicessales.ms_sql\\sqlservercontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|c:\\proj c#\\devicessales\\devicessales\\features\\interfaces\\isalemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|solutionrelative:devicessales\\features\\interfaces\\isalemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|c:\\proj c#\\devicessales\\devicessales\\features\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|solutionrelative:devicessales\\features\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C26BC47-069A-4577-A22C-E1A990470602}|DevicesSalesLogic\\DevicesSalesLogic.csproj|c:\\proj c#\\devicessales\\devicessaleslogic\\interfaces\\isalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C26BC47-069A-4577-A22C-E1A990470602}|DevicesSalesLogic\\DevicesSalesLogic.csproj|solutionrelative:devicessaleslogic\\interfaces\\isalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C26BC47-069A-4577-A22C-E1A990470602}|DevicesSalesLogic\\DevicesSalesLogic.csproj|c:\\proj c#\\devicessales\\devicessaleslogic\\repositories\\salerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C26BC47-069A-4577-A22C-E1A990470602}|DevicesSalesLogic\\DevicesSalesLogic.csproj|solutionrelative:devicessaleslogic\\repositories\\salerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5881C87-3D9E-41F2-B2C6-7C93CC5D85FE}|DevicesSalesStorage\\DevicesSalesStorage.csproj|c:\\proj c#\\devicessales\\devicessalesstorage\\devicessalesstorage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5881C87-3D9E-41F2-B2C6-7C93CC5D85FE}|DevicesSalesStorage\\DevicesSalesStorage.csproj|solutionrelative:devicessalesstorage\\devicessalesstorage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|c:\\proj c#\\devicessales\\devicessales\\extensions\\collectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|solutionrelative:devicessales\\extensions\\collectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C26BC47-069A-4577-A22C-E1A990470602}|DevicesSalesLogic\\DevicesSalesLogic.csproj|c:\\proj c#\\devicessales\\devicessaleslogic\\devicessaleslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7C26BC47-069A-4577-A22C-E1A990470602}|DevicesSalesLogic\\DevicesSalesLogic.csproj|solutionrelative:devicessaleslogic\\devicessaleslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D973D5-C1FF-45FE-A4C8-3EF99D79E08B}|DevicesSales.MS_SQL\\DevicesSales.MS_SQL.csproj|c:\\proj c#\\devicessales\\devicessales.ms_sql\\devicessales.ms_sql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20D973D5-C1FF-45FE-A4C8-3EF99D79E08B}|DevicesSales.MS_SQL\\DevicesSales.MS_SQL.csproj|solutionrelative:devicessales.ms_sql\\devicessales.ms_sql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|c:\\proj c#\\devicessales\\devicessales\\devicessales.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3E7E980-578F-428A-952F-04CD8AE99B36}|DevicesSales\\DevicesSales.csproj|solutionrelative:devicessales\\devicessales.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSales\\appsettings.json",
+              "RelativeDocumentMoniker": "DevicesSales\\appsettings.json",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSales\\appsettings.json",
+              "RelativeToolTip": "DevicesSales\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T18:29:29.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaleDto.cs",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Features\\DtoModels\\SaleDto.cs",
+              "RelativeDocumentMoniker": "DevicesSales\\Features\\DtoModels\\SaleDto.cs",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Features\\DtoModels\\SaleDto.cs",
+              "RelativeToolTip": "DevicesSales\\Features\\DtoModels\\SaleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:01:42.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSalesStorage\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "DevicesSalesStorage\\Models\\Client.cs",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSalesStorage\\Models\\Client.cs",
+              "RelativeToolTip": "DevicesSalesStorage\\Models\\Client.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:27:22.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSalesStorage\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "DevicesSalesStorage\\Models\\Sale.cs",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSalesStorage\\Models\\Sale.cs",
+              "RelativeToolTip": "DevicesSalesStorage\\Models\\Sale.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:27:37.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IClientManager.cs",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Features\\Interfaces\\IClientManager.cs",
+              "RelativeDocumentMoniker": "DevicesSales\\Features\\Interfaces\\IClientManager.cs",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Features\\Interfaces\\IClientManager.cs",
+              "RelativeToolTip": "DevicesSales\\Features\\Interfaces\\IClientManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:56:47.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LogView.cshtml",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Views\\Client\\LogView.cshtml",
+              "RelativeDocumentMoniker": "DevicesSales\\Views\\Client\\LogView.cshtml",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Views\\Client\\LogView.cshtml",
+              "RelativeToolTip": "DevicesSales\\Views\\Client\\LogView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T18:41:28.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "DevicesSales\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "DevicesSales\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:33:40.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegView.cshtml",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Views\\Client\\RegView.cshtml",
+              "RelativeDocumentMoniker": "DevicesSales\\Views\\Client\\RegView.cshtml",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Views\\Client\\RegView.cshtml",
+              "RelativeToolTip": "DevicesSales\\Views\\Client\\RegView.cshtml",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAmwG8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T18:41:03.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DevicesSales\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DevicesSales\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:16:17.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientDto.cs",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Features\\DtoModels\\ClientDto.cs",
+              "RelativeDocumentMoniker": "DevicesSales\\Features\\DtoModels\\ClientDto.cs",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Features\\DtoModels\\ClientDto.cs",
+              "RelativeToolTip": "DevicesSales\\Features\\DtoModels\\ClientDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:01:27.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSalesStorage\\DataContext.cs",
+              "RelativeDocumentMoniker": "DevicesSalesStorage\\DataContext.cs",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSalesStorage\\DataContext.cs",
+              "RelativeToolTip": "DevicesSalesStorage\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:31:42.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollectionExtension.cs",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSalesLogic\\Extension\\CollectionExtension.cs",
+              "RelativeDocumentMoniker": "DevicesSalesLogic\\Extension\\CollectionExtension.cs",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSalesLogic\\Extension\\CollectionExtension.cs",
+              "RelativeToolTip": "DevicesSalesLogic\\Extension\\CollectionExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:48:53.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartView.cshtml",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Views\\Client\\CartView.cshtml",
+              "RelativeDocumentMoniker": "DevicesSales\\Views\\Client\\CartView.cshtml",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Views\\Client\\CartView.cshtml",
+              "RelativeToolTip": "DevicesSales\\Views\\Client\\CartView.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T19:41:45.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Views\\Client\\Menu.cshtml",
+              "RelativeDocumentMoniker": "DevicesSales\\Views\\Client\\Menu.cshtml",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Views\\Client\\Menu.cshtml",
+              "RelativeToolTip": "DevicesSales\\Views\\Client\\Menu.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAD0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T18:52:51.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SaleManager.cs",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Features\\Managers\\SaleManager.cs",
+              "RelativeDocumentMoniker": "DevicesSales\\Features\\Managers\\SaleManager.cs",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Features\\Managers\\SaleManager.cs",
+              "RelativeToolTip": "DevicesSales\\Features\\Managers\\SaleManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:56:09.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientManager.cs",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Features\\Managers\\ClientManager.cs",
+              "RelativeDocumentMoniker": "DevicesSales\\Features\\Managers\\ClientManager.cs",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Features\\Managers\\ClientManager.cs",
+              "RelativeToolTip": "DevicesSales\\Features\\Managers\\ClientManager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:56:21.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSalesLogic\\Interfaces\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "DevicesSalesLogic\\Interfaces\\IClientRepository.cs",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSalesLogic\\Interfaces\\IClientRepository.cs",
+              "RelativeToolTip": "DevicesSalesLogic\\Interfaces\\IClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:38:46.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Features\\DtoModels\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DevicesSales\\Features\\DtoModels\\LoginDto.cs",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Features\\DtoModels\\LoginDto.cs",
+              "RelativeToolTip": "DevicesSales\\Features\\DtoModels\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:40:05.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSalesLogic\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "DevicesSalesLogic\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSalesLogic\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "DevicesSalesLogic\\Repositories\\ClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:38:37.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SaleView.cshtml",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Views\\Client\\SaleView.cshtml",
+              "RelativeDocumentMoniker": "DevicesSales\\Views\\Client\\SaleView.cshtml",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Views\\Client\\SaleView.cshtml",
+              "RelativeToolTip": "DevicesSales\\Views\\Client\\SaleView.cshtml",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAmwGEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T19:19:56.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SqlServerContextFactory.cs",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSales.MS_SQL\\SqlServerContextFactory.cs",
+              "RelativeDocumentMoniker": "DevicesSales.MS_SQL\\SqlServerContextFactory.cs",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSales.MS_SQL\\SqlServerContextFactory.cs",
+              "RelativeToolTip": "DevicesSales.MS_SQL\\SqlServerContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:34:59.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FirstPage.cshtml",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Views\\Home\\FirstPage.cshtml",
+              "RelativeDocumentMoniker": "DevicesSales\\Views\\Home\\FirstPage.cshtml",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Views\\Home\\FirstPage.cshtml",
+              "RelativeToolTip": "DevicesSales\\Views\\Home\\FirstPage.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAEQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T18:22:02.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SaleRepository.cs",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSalesLogic\\Repositories\\SaleRepository.cs",
+              "RelativeDocumentMoniker": "DevicesSalesLogic\\Repositories\\SaleRepository.cs",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSalesLogic\\Repositories\\SaleRepository.cs",
+              "RelativeToolTip": "DevicesSalesLogic\\Repositories\\SaleRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:39:02.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240606183226_Added tables.cs",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSales.MS_SQL\\Migrations\\20240606183226_Added tables.cs",
+              "RelativeDocumentMoniker": "DevicesSales.MS_SQL\\Migrations\\20240606183226_Added tables.cs",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSales.MS_SQL\\Migrations\\20240606183226_Added tables.cs",
+              "RelativeToolTip": "DevicesSales.MS_SQL\\Migrations\\20240606183226_Added tables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:32:27.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Features\\Mapper.cs",
+              "RelativeDocumentMoniker": "DevicesSales\\Features\\Mapper.cs",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Features\\Mapper.cs",
+              "RelativeToolTip": "DevicesSales\\Features\\Mapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:57:58.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Program.cs",
+              "RelativeDocumentMoniker": "DevicesSales\\Program.cs",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Program.cs",
+              "RelativeToolTip": "DevicesSales\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:52:14.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ISaleRepository.cs",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSalesLogic\\Interfaces\\ISaleRepository.cs",
+              "RelativeDocumentMoniker": "DevicesSalesLogic\\Interfaces\\ISaleRepository.cs",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSalesLogic\\Interfaces\\ISaleRepository.cs",
+              "RelativeToolTip": "DevicesSalesLogic\\Interfaces\\ISaleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:39:10.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ISaleManager.cs",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Features\\Interfaces\\ISaleManager.cs",
+              "RelativeDocumentMoniker": "DevicesSales\\Features\\Interfaces\\ISaleManager.cs",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Features\\Interfaces\\ISaleManager.cs",
+              "RelativeToolTip": "DevicesSales\\Features\\Interfaces\\ISaleManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:56:35.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DevicesSalesStorage.csproj",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSalesStorage\\DevicesSalesStorage.csproj",
+              "RelativeDocumentMoniker": "DevicesSalesStorage\\DevicesSalesStorage.csproj",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSalesStorage\\DevicesSalesStorage.csproj",
+              "RelativeToolTip": "DevicesSalesStorage\\DevicesSalesStorage.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T17:21:45.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CollectionExtension.cs",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Extensions\\CollectionExtension.cs",
+              "RelativeDocumentMoniker": "DevicesSales\\Extensions\\CollectionExtension.cs",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSales\\Extensions\\CollectionExtension.cs",
+              "RelativeToolTip": "DevicesSales\\Extensions\\CollectionExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:53:50.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DevicesSalesLogic.csproj",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSalesLogic\\DevicesSalesLogic.csproj",
+              "RelativeDocumentMoniker": "DevicesSalesLogic\\DevicesSalesLogic.csproj",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSalesLogic\\DevicesSalesLogic.csproj",
+              "RelativeToolTip": "DevicesSalesLogic\\DevicesSalesLogic.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T17:25:19.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DevicesSales.MS_SQL.csproj",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSales.MS_SQL\\DevicesSales.MS_SQL.csproj",
+              "RelativeDocumentMoniker": "DevicesSales.MS_SQL\\DevicesSales.MS_SQL.csproj",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSales.MS_SQL\\DevicesSales.MS_SQL.csproj",
+              "RelativeToolTip": "DevicesSales.MS_SQL\\DevicesSales.MS_SQL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T17:23:55.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DevicesSales.csproj",
+              "DocumentMoniker": "C:\\Proj C#\\DevicesSales\\DevicesSales\\DevicesSales.csproj",
+              "RelativeDocumentMoniker": "DevicesSales\\DevicesSales.csproj",
+              "ToolTip": "C:\\Proj C#\\DevicesSales\\DevicesSales\\DevicesSales.csproj",
+              "RelativeToolTip": "DevicesSales\\DevicesSales.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T17:22:10.46Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

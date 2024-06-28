@@ -1,0 +1,12 @@
+C:\Proj C#\DevicesSales\DevicesSalesStorage\bin\Debug\net8.0\DevicesSalesStorage.deps.json
+C:\Proj C#\DevicesSales\DevicesSalesStorage\bin\Debug\net8.0\DevicesSalesStorage.dll
+C:\Proj C#\DevicesSales\DevicesSalesStorage\bin\Debug\net8.0\DevicesSalesStorage.pdb
+C:\Proj C#\DevicesSales\DevicesSalesStorage\obj\Debug\net8.0\DevicesSalesStorage.csproj.AssemblyReference.cache
+C:\Proj C#\DevicesSales\DevicesSalesStorage\obj\Debug\net8.0\DevicesSalesStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proj C#\DevicesSales\DevicesSalesStorage\obj\Debug\net8.0\DevicesSalesStorage.AssemblyInfoInputs.cache
+C:\Proj C#\DevicesSales\DevicesSalesStorage\obj\Debug\net8.0\DevicesSalesStorage.AssemblyInfo.cs
+C:\Proj C#\DevicesSales\DevicesSalesStorage\obj\Debug\net8.0\DevicesSalesStorage.csproj.CoreCompileInputs.cache
+C:\Proj C#\DevicesSales\DevicesSalesStorage\obj\Debug\net8.0\DevicesSalesStorage.dll
+C:\Proj C#\DevicesSales\DevicesSalesStorage\obj\Debug\net8.0\refint\DevicesSalesStorage.dll
+C:\Proj C#\DevicesSales\DevicesSalesStorage\obj\Debug\net8.0\DevicesSalesStorage.pdb
+C:\Proj C#\DevicesSales\DevicesSalesStorage\obj\Debug\net8.0\ref\DevicesSalesStorage.dll

@@ -1,0 +1,17 @@
+C:\Proj C#\DevicesSales\DevicesSales.MS_SQL\bin\Debug\net8.0\DevicesSales.MS_SQL.deps.json
+C:\Proj C#\DevicesSales\DevicesSales.MS_SQL\bin\Debug\net8.0\DevicesSales.MS_SQL.runtimeconfig.json
+C:\Proj C#\DevicesSales\DevicesSales.MS_SQL\bin\Debug\net8.0\DevicesSales.MS_SQL.dll
+C:\Proj C#\DevicesSales\DevicesSales.MS_SQL\bin\Debug\net8.0\DevicesSales.MS_SQL.pdb
+C:\Proj C#\DevicesSales\DevicesSales.MS_SQL\bin\Debug\net8.0\DevicesSalesStorage.dll
+C:\Proj C#\DevicesSales\DevicesSales.MS_SQL\bin\Debug\net8.0\DevicesSalesStorage.pdb
+C:\Proj C#\DevicesSales\DevicesSales.MS_SQL\obj\Debug\net8.0\DevicesSales.MS_SQL.csproj.AssemblyReference.cache
+C:\Proj C#\DevicesSales\DevicesSales.MS_SQL\obj\Debug\net8.0\DevicesSales.MS_SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proj C#\DevicesSales\DevicesSales.MS_SQL\obj\Debug\net8.0\DevicesSales.MS_SQL.AssemblyInfoInputs.cache
+C:\Proj C#\DevicesSales\DevicesSales.MS_SQL\obj\Debug\net8.0\DevicesSales.MS_SQL.AssemblyInfo.cs
+C:\Proj C#\DevicesSales\DevicesSales.MS_SQL\obj\Debug\net8.0\DevicesSales.MS_SQL.csproj.CoreCompileInputs.cache
+C:\Proj C#\DevicesSales\DevicesSales.MS_SQL\obj\Debug\net8.0\DevicesS.90717922.Up2Date
+C:\Proj C#\DevicesSales\DevicesSales.MS_SQL\obj\Debug\net8.0\DevicesSales.MS_SQL.dll
+C:\Proj C#\DevicesSales\DevicesSales.MS_SQL\obj\Debug\net8.0\refint\DevicesSales.MS_SQL.dll
+C:\Proj C#\DevicesSales\DevicesSales.MS_SQL\obj\Debug\net8.0\DevicesSales.MS_SQL.pdb
+C:\Proj C#\DevicesSales\DevicesSales.MS_SQL\obj\Debug\net8.0\DevicesSales.MS_SQL.genruntimeconfig.cache
+C:\Proj C#\DevicesSales\DevicesSales.MS_SQL\obj\Debug\net8.0\ref\DevicesSales.MS_SQL.dll

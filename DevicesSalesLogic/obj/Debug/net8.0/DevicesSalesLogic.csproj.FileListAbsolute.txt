@@ -1,0 +1,15 @@
+C:\Proj C#\DevicesSales\DevicesSalesLogic\bin\Debug\net8.0\DevicesSalesLogic.deps.json
+C:\Proj C#\DevicesSales\DevicesSalesLogic\bin\Debug\net8.0\DevicesSalesLogic.dll
+C:\Proj C#\DevicesSales\DevicesSalesLogic\bin\Debug\net8.0\DevicesSalesLogic.pdb
+C:\Proj C#\DevicesSales\DevicesSalesLogic\bin\Debug\net8.0\DevicesSalesStorage.dll
+C:\Proj C#\DevicesSales\DevicesSalesLogic\bin\Debug\net8.0\DevicesSalesStorage.pdb
+C:\Proj C#\DevicesSales\DevicesSalesLogic\obj\Debug\net8.0\DevicesSalesLogic.csproj.AssemblyReference.cache
+C:\Proj C#\DevicesSales\DevicesSalesLogic\obj\Debug\net8.0\DevicesSalesLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proj C#\DevicesSales\DevicesSalesLogic\obj\Debug\net8.0\DevicesSalesLogic.AssemblyInfoInputs.cache
+C:\Proj C#\DevicesSales\DevicesSalesLogic\obj\Debug\net8.0\DevicesSalesLogic.AssemblyInfo.cs
+C:\Proj C#\DevicesSales\DevicesSalesLogic\obj\Debug\net8.0\DevicesSalesLogic.csproj.CoreCompileInputs.cache
+C:\Proj C#\DevicesSales\DevicesSalesLogic\obj\Debug\net8.0\DevicesS.A43C371E.Up2Date
+C:\Proj C#\DevicesSales\DevicesSalesLogic\obj\Debug\net8.0\DevicesSalesLogic.dll
+C:\Proj C#\DevicesSales\DevicesSalesLogic\obj\Debug\net8.0\refint\DevicesSalesLogic.dll
+C:\Proj C#\DevicesSales\DevicesSalesLogic\obj\Debug\net8.0\DevicesSalesLogic.pdb
+C:\Proj C#\DevicesSales\DevicesSalesLogic\obj\Debug\net8.0\ref\DevicesSalesLogic.dll

@@ -1,0 +1,108 @@
+﻿@using DevicesSales.Controllers
+@using DevicesSales.Features.DtoModels
+@model LoginDto
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <title>Войти в аккаунт</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1e1e1e;
+            color: #ffffff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .container {
+            width: 80%;
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            background-color: #2a2a2a;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+        }
+
+        h2 {
+            color: #ffcc00;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: block;
+            color: #ffffff;
+            margin-bottom: 5px;
+        }
+
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #444;
+            border-radius: 5px;
+            box-sizing: border-box;
+            background-color: #444;
+            color: #ffffff;
+        }
+
+        .btn-primary {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #ff4500;
+            color: #ffffff;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+            margin-right: 10px;
+        }
+
+            .btn-primary:hover {
+                background-color: #ff6500;
+            }
+
+        .footer-link {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+            .footer-link a {
+                color: #ff4500;
+                text-decoration: none;
+            }
+
+                .footer-link a:hover {
+                    text-decoration: underline;
+                }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Войти в аккаунт</h2>
+        @using (Html.BeginForm(nameof(ClientController.LoginClientView), ClientController.route, FormMethod.Post))
+        {
+            @Html.ValidationSummary(true)
+            <div class="form-group">
+                @Html.LabelFor(x => x.Email, "Введите ваш email:")
+                @Html.TextBoxFor(x => x.Email)
+                @Html.ValidationMessageFor(x => x.Email)
+            </div>
+            <button type="submit" class="btn btn-primary">В меню пользователя</button>
+        }
+        <div class="footer-link">
+            <a href="@Url.Action(nameof(HomeController.FirstPage), "Home")">На главную</a>
+        </div>
+        
+    </div>
+</body>
+</html>
